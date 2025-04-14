@@ -54,7 +54,7 @@ const Home = () => {
                       <p>
                         源码：
                         <a
-                          href='https://github.com/songquanpeng/gin-template'
+                          href='https://github.com/ctwj/gin-template'
                           target='_blank'
                         >
                           https://github.com/songquanpeng/gin-template
