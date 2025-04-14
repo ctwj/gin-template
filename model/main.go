@@ -2,10 +2,12 @@ package model
 
 import (
 	"gin-template/common"
-	"gorm.io/driver/mysql"
-	"gorm.io/driver/sqlite"
-	"gorm.io/gorm"
 	"os"
+
+	"gorm.io/driver/mysql"
+	"gorm.io/gorm"
+
+	"github.com/glebarez/sqlite"
 )
 
 var DB *gorm.DB
